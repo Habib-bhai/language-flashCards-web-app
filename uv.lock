@@ -371,15 +371,8 @@ name = "personal-finance-tracker"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-    { name = "fpdf" },
-    { name = "gtts" },
-    { name = "pandas" },
+   { name = "pandas" },
     { name = "plotly" },
-    { name = "pytest" },
-    { name = "pytest-cov" },
-    { name = "python-dotenv" },
-    { name = "pyttsx3" },
-    { name = "pywin32" },
     { name = "streamlit" },
     { name = "uvicorn" },
 ]
