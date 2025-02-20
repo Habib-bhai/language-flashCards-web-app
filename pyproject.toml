@@ -1,0 +1,18 @@
+[project]
+name = "Personal-Finance-Tracker"
+version = "0.1.0"
+description = "Streamlit personal finance app"
+dependencies = [
+    "fpdf>=1.7.2",
+    "gtts>=2.5.4",
+    "pandas>=2.2.3",
+    "plotly>=6.0.0",
+    "pytest>=8.3.4",
+    "pytest-cov>=6.0.0",
+    "python-dotenv>=1.0.1",
+    "pyttsx3>=2.98",
+    "pywin32>=308",
+    "streamlit>=1.42.1",
+    "uvicorn>=0.34.0",
+]
+
